@@ -2,11 +2,11 @@
 
 ![image of payroll tracker](<payroll tracker.png>)
 
-## This is an employee payroll tracker that collects employee data including first and last names as well as salaries. The tracker then works by ombining the salaries of all employees entered and dividing by the number of empoloyees to display an average. The tracker then logs the results into the console of the webpage along with a message.
+## This is an employee payroll tracker that collects employee data including first and last names as well as salaries. The tracker then works by combining the salaries divided by the number of employees to display an average salary. The tracker then logs the results into the console of the webpage along with a message.
 
 ## Getting Started
 
-To clone this repository and view it locally, navigate to the code button in the top right of the screen and use the drop down button to copy the repository's url. Then using your local command shell (example: terminal or gitbash), create the directory you'd like to add the repository to. Navigate into the directory using your command line. Execute the 'git clone' command followed by the url of the repository you copied. The repoistory should now be available inside the local directory you just created to view and edit or review the source code in your IDE. 
+To clone this repository and view it locally, navigate to the green 'code' button in the top right of the repository and use the drop down button to copy the repository's url. Then using your local command shell (example: terminal or gitbash), create the directory you'd like to add the repository to. Navigate into the directory using your command line. Execute the 'git clone' command followed by the url of the repository you copied. The repoistory should now be available inside the local directory you just created to view and edit or review the source code in your IDE. 
 
 ## Usage
 
