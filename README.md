@@ -2,6 +2,8 @@
 
 ![image of payroll tracker](<payroll tracker.png>)
 
+## https://devwes91.github.io/Employee-Payroll-Tracker/
+
 ## This is an employee payroll tracker that collects employee data including first and last names as well as salaries. The tracker then works by combining the salaries divided by the number of employees to display an average salary. The tracker then logs the results into the console of the webpage along with a message.
 
 ## Getting Started
