@@ -1,6 +1,6 @@
 # Employee-Payroll-Tracker
 
-![image of payroll tracker](<payroll tracker-1.png>)
+![image of payroll tracker](<payroll tracker.png>)
 
 ## This is an employee payroll tracker that collects employee data including first and last names as well as salaries. The tracker then works by ombining the salaries of all employees entered and dividing by the number of empoloyees to display an average. The tracker then logs the results into the console of the webpage along with a message.
 
